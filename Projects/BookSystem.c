@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+// Define a struct to hold book details
 struct Book {
   int id;
   char title[50];
